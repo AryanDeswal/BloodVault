@@ -9,8 +9,6 @@ A blood bank web app where donors register, log their donations, and anyone sign
 ![Materialize](https://img.shields.io/badge/Materialize-EE6E73?logo=materialdesign&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**Live demo:** https://bloodvault.onrender.com
-
 ## About
 
 BloodVault is a server-rendered Node.js and Express app backed by MongoDB. Donors register with their name, blood group, city, phone number and address, then record how many pints of blood they have donated. Registered users can browse the donor bank, filter it by blood group, Rh factor and city, and call a donor straight from the results. The landing page also has general information about blood donation eligibility and blood type compatibility.
